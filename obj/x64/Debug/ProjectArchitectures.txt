@@ -1,0 +1,1 @@
+C:\Users\OMEN\OneDrive\Desktop\Progamming\PBKK\Tugas 4\Windows-appsample-photo-lab\xaml-basics-starting-points\data-binding\PhotoLab\PhotoLab.csproj;x64
